@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+4%2B+Years+XP;Angular+%2B+TypeScript+Specialist;SAP+Spartacus+%2F+Commerce+Cloud+Expert;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+5%2B+Years+XP;Angular+%2B+TypeScript+Specialist;SAP+Spartacus+%2F+Commerce+Cloud+Expert;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 -----
