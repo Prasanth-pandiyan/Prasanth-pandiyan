@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Prasanth-pandiyan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
   <a href="mailto:prasanthpandiyan98@gmail.com"><img src="https://img.shields.io/badge/Gmail-prasanthpandiyan98-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prasanth-pandiyan"><img src="https://img.shields.io/badge/LinkedIn-Prasanth%20Pandiyan-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prasanth-pandiyan-767b79187"><img src="https://img.shields.io/badge/LinkedIn-Prasanth%20Pandiyan-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
 
